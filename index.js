@@ -29,8 +29,8 @@ const FACEBOOK_PIXEL_ID = process.env.FACEBOOK_PIXEL_ID;
 const FACEBOOK_API_TOKEN = process.env.FACEBOOK_API_TOKEN;
 const PUSHINPAY_API_TOKEN = process.env.PUSHINPAY_API_TOKEN;
 
-const apiId = MUDARAQUI; 
-const apiHash = 'MUDARAQUI'; 
+const apiId = 28293459; 
+const apiHash = '6475464808bee35ec3c2f2b13317c520'; 
 const stringSession = new StringSession(TELEGRAM_SESSION || '');
 const CHAT_ID = BigInt(-1002816878922);
 
